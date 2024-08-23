@@ -99,3 +99,20 @@ padding:50px 30px;
 .circle h2{
     font-size:35px;
 }
+.footer{
+    height:140px;
+    background-color: gray;
+    text-align: center;
+    padding-top:20px;
+}
+.footer div{
+    height:80px;
+}
+.footer img{
+    margin:0 10px;
+}
+.footer p{
+    padding-top:10px;
+    background-color: lightgray;
+    height:60px;
+}
